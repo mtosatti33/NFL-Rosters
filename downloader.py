@@ -2,8 +2,7 @@ import os
 import pandas as pd
 from bs4 import BeautifulSoup
 import requests
-from config import folders
-from config import isOffseason
+from config import *
 
 urlRoster = 'https://www.{}.com/team/players-roster/'
 urlTransactions = 'https://www.{}.com/team/transactions/'
