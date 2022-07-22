@@ -1,5 +1,8 @@
+rosters/
+transactions/
 .idea/
 .ipynb_checkpoints/
 __pycache__/
 *.csv
 *.ipynb
+~$NFL_RosterManager.xlsm
